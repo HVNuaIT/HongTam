@@ -23,7 +23,45 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="Areas\Admin\content\sass\.sass-cache\deff34d1f5b7167181b556002c25068d6adc024d\styles.scssc" />
+    <None Include="wwwroot\content\sass\.sass-cache\deff34d1f5b7167181b556002c25068d6adc024d\styles.scssc" />
+    <None Include="wwwroot\content\css\bootstrap-table.css" />
+    <None Include="wwwroot\content\css\bootstrap-theme.css" />
+    <None Include="wwwroot\content\css\bootstrap-theme.css.map" />
+    <None Include="wwwroot\content\css\bootstrap-theme.min.css" />
+    <None Include="wwwroot\content\css\bootstrap-theme.min.css.map" />
+    <None Include="wwwroot\content\css\bootstrap.css" />
+    <None Include="wwwroot\content\css\bootstrap.css.map" />
+    <None Include="wwwroot\content\css\bootstrap.min.css" />
+    <None Include="wwwroot\content\css\bootstrap.min.css.map" />
+    <None Include="wwwroot\content\css\datepicker.css" />
+    <None Include="wwwroot\content\css\datepicker3.css" />
+    <None Include="wwwroot\content\css\font-awesome.min.css" />
+    <None Include="wwwroot\content\css\styles.css" />
+    <None Include="wwwroot\content\fonts\fontawesome-webfont.eot" />
+    <None Include="wwwroot\content\fonts\fontawesome-webfont.svg" />
+    <None Include="wwwroot\content\fonts\fontawesome-webfont.ttf" />
+    <None Include="wwwroot\content\fonts\fontawesome-webfont.woff" />
+    <None Include="wwwroot\content\fonts\fontawesome-webfont.woff2" />
+    <None Include="wwwroot\content\fonts\FontAwesome.otf" />
+    <None Include="wwwroot\content\fonts\glyphicons-halflings-regular.eot" />
+    <None Include="wwwroot\content\fonts\glyphicons-halflings-regular.svg" />
+    <None Include="wwwroot\content\fonts\glyphicons-halflings-regular.ttf" />
+    <None Include="wwwroot\content\fonts\glyphicons-halflings-regular.woff" />
+    <None Include="wwwroot\content\fonts\glyphicons-halflings-regular.woff2" />
+    <None Include="wwwroot\content\js\bootstrap-datepicker.js" />
+    <None Include="wwwroot\content\js\bootstrap.js" />
+    <None Include="wwwroot\content\js\bootstrap.min.js" />
+    <None Include="wwwroot\content\js\chart-data.js" />
+    <None Include="wwwroot\content\js\chart.min.js" />
+    <None Include="wwwroot\content\js\custom.js" />
+    <None Include="wwwroot\content\js\easypiechart-data.js" />
+    <None Include="wwwroot\content\js\easypiechart.js" />
+    <None Include="wwwroot\content\js\html5shiv.min.js" />
+    <None Include="wwwroot\content\js\jquery-1.11.1.min.js" />
+    <None Include="wwwroot\content\js\lumino.glyphs.js" />
+    <None Include="wwwroot\content\js\npm.js" />
+    <None Include="wwwroot\content\js\respond.min.js" />
+    <None Include="wwwroot\content\sass\styles.scss" />
   </ItemGroup>
 
 </Project>
